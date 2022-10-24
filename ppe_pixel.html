@@ -1,0 +1,42 @@
+<!doctype html>
+<head>
+  <title>
+    PPE Pixel
+  </title>
+  <script async src="https://apps.bazaarvoice.com/deployments/test-anchovy/stephanieetnabil/production/en_GB/bv.js"></script>
+</head>
+
+<body>
+
+  <div id="order_summary"></div>
+
+  <script>
+    // --------------- COMMAND TO USE ----------------
+    // - http-server -a localhost -o /ppe_pixel.html -
+    // -----------------------------------------------
+
+    let payload = {
+      orderId: Math.random().toString(36).slice(-8),
+      total: "100.00",
+      currency: "USD",
+      items: [
+        {
+        "name": "Printed T - XX-Large",
+        "price": "100.00",
+        "quantity": "1",
+        "productId": "670466677",
+        }
+      ],
+      email: "nabil.lemenuel@bazaarvoice.com",
+      locale: "en_GB",
+      nickname: "Nabil"
+    };
+
+    window.bvCallback = function (BV) { BV.pixel.trackTransaction(payload); };
+
+    document.querySelector('#order_summary').innerHTML = "Sent PIE: "+JSON.stringify(payload);
+ 
+  </script>
+  
+</body>
+</html>
