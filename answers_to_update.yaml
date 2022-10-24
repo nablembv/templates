@@ -1,0 +1,6 @@
+update:
+ -
+  ObsoleteDimensionExternalID: Staff
+  DimensionExternalID: Friends
+  ObsoleteValueExternalID: PeakPerformanceEmployee
+  ValueExternalID: PeakPerformanceEmployee

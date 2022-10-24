@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Feed xmlns="http://www.bazaarvoice.com/xs/PRR/ProductFeed/15.1" name="test-anchovy" incremental="true" supplemental="false" extractDate="2022-10-06T07:24:07.761401">
+  <Brands>
+    <Brand>
+      <ExternalId>del_ventos_doodles</ExternalId>
+      <Name>Del Vento's Doodles</Name>
+    </Brand>
+  </Brands>
+  <Categories>
+    <Category>
+      <ExternalId>boom_shakala</ExternalId>
+      <Name>Boom Shakalaka</Name>
+      <CategoryPageUrl>https://img.traveltriangle.com/blog/wp-content/uploads/2018/11/Rivers-of-the-World-Cover.jpg</CategoryPageUrl>
+    </Category>
+    <Category>
+      <ExternalId>spider_in_stream</ExternalId>
+      <ParentExternalId>boom_shakala</ParentExternalId>
+      <Name>Spider in Stream</Name>
+      <CategoryPageUrl>https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png</CategoryPageUrl>
+    </Category>
+  </Categories>
+  <Products>
+    <Product>
+      <ExternalId>670466657</ExternalId>
+      <Name>Printed T - Small</Name>
+      <Description>Printed T-Shirt of the original dramatic Boom Shakalaka Spider in Stream. Acceptable from Casual up to Classy. Make your friends jealous and your date swoon with this all cotton T.</Description>
+      <CategoryExternalId>spider_in_stream</CategoryExternalId>
+      <BrandExternalId>del_ventos_doodles</BrandExternalId>
+      <ProductPageUrl>https://www.shopify.com/pos/hardware</ProductPageUrl>
+      <ImageUrl>https://cdn.shopify.com/s/files/1/0422/7341/products/boom-shakalaka-shirt-front.png?&amp;_accept=image/avif</ImageUrl>
+      <Size>Small</Size>
+      <Attributes>
+        <Attribute id="BV_FE_FAMILY">
+          <Value>284083369</Value>
+        </Attribute>
+        <Attribute id="BV_FE_EXPAND">
+          <Value>BV_FE_FAMILY:284083369</Value>
+        </Attribute>
+      </Attributes>
+    </Product>
+    <Product>
+      <ExternalId>670466661</ExternalId>
+      <Name>Printed T - Medium</Name>
+      <Description>Printed T-Shirt of the original dramatic Boom Shakalaka Spider in Stream. Acceptable from Casual up to Classy. Make your friends jealous and your date swoon with this all cotton T.</Description>
+      <CategoryExternalId>spider_in_stream</CategoryExternalId>
+      <BrandExternalId>del_ventos_doodles</BrandExternalId>
+      <ProductPageUrl>https://apps.shopify.com/helpcenter?locale=fr</ProductPageUrl>
+      <ImageUrl>https://cdn.shopify.com/s/files/1/0422/7341/products/boom-shakalaka-shirt-front.png?&amp;_accept=image/avif</ImageUrl>
+      <Size>Medium</Size>
+      <Attributes>
+        <Attribute id="BV_FE_FAMILY">
+          <Value>284083369</Value>
+        </Attribute>
+        <Attribute id="BV_FE_EXPAND">
+          <Value>BV_FE_FAMILY:284083369</Value>
+        </Attribute>
+      </Attributes>
+    </Product>
+    <Product>
+      <ExternalId>670466669</ExternalId>
+      <Name>Printed T - Large</Name>
+      <Description>Printed T-Shirt of the original dramatic Boom Shakalaka Spider in Stream. Acceptable from Casual up to Classy. Make your friends jealous and your date swoon with this all cotton T.</Description>
+      <CategoryExternalId>spider_in_stream</CategoryExternalId>
+      <BrandExternalId>del_ventos_doodles</BrandExternalId>
+      <ProductPageUrl>https://www.shopify.com/contact</ProductPageUrl>
+      <ImageUrl>https://cdn.shopify.com/s/files/1/0422/7341/products/boom-shakalaka-shirt-front.png?&amp;_accept=image/avif</ImageUrl>
+      <Size>Large</Size>
+      <Attributes>
+        <Attribute id="BV_FE_FAMILY">
+          <Value>284083369</Value>
+        </Attribute>
+        <Attribute id="BV_FE_EXPAND">
+          <Value>BV_FE_FAMILY:284083369</Value>
+        </Attribute>
+      </Attributes>
+    </Product>
+    <Product>
+      <ExternalId>670466673</ExternalId>
+      <Name>Printed T - X-Large</Name>
+      <Description>Printed T-Shirt of the original dramatic Boom Shakalaka Spider in Stream. Acceptable from Casual up to Classy. Make your friends jealous and your date swoon with this all cotton T.</Description>
+      <CategoryExternalId>spider_in_stream</CategoryExternalId>
+      <BrandExternalId>del_ventos_doodles</BrandExternalId>
+      <ProductPageUrl>https://www.shopify.com/pos/features</ProductPageUrl>
+      <ImageUrl>https://cdn.shopify.com/s/files/1/0422/7341/products/boom-shakalaka-shirt-front.png?&amp;_accept=image/avif</ImageUrl>
+      <Size>X-Large</Size>
+      <Attributes>
+        <Attribute id="BV_FE_FAMILY">
+          <Value>284083369</Value>
+        </Attribute>
+        <Attribute id="BV_FE_EXPAND">
+          <Value>BV_FE_FAMILY:284083369</Value>
+        </Attribute>
+      </Attributes>
+    </Product>
+    <Product>
+      <ExternalId>670466677</ExternalId>
+      <Name>Printed T - XX-Large</Name>
+      <Description>Printed T-Shirt of the original dramatic Boom Shakalaka Spider in Stream. Acceptable from Casual up to Classy. Make your friends jealous and your date swoon with this all cotton T.</Description>
+      <CategoryExternalId>spider_in_stream</CategoryExternalId>
+      <BrandExternalId>del_ventos_doodles</BrandExternalId>
+      <ProductPageUrl>https://www.shopify.com/marketing-automation</ProductPageUrl>
+      <ImageUrl>https://cdn.shopify.com/s/files/1/0422/7341/products/boom-shakalaka-shirt-front.png?&amp;_accept=image/avif</ImageUrl>
+      <Size>XX-Large</Size>
+      <Attributes>
+        <Attribute id="BV_FE_FAMILY">
+          <Value>284083369</Value>
+        </Attribute>
+        <Attribute id="BV_FE_EXPAND">
+          <Value>BV_FE_FAMILY:284083369</Value>
+        </Attribute>
+      </Attributes>
+    </Product>
+    <Product>
+      <ExternalId>670270061</ExternalId>
+      <Name>Signed Reprint - 4x6 - Black and White</Name>
+      <Description>Hang this signed 4 x 6 reprint piece of art on your wall of choice. The Boom Shakalaka spider will delight your friends and satisfy your need for amazing hand drawn reprinted ART. Sharpie on Paper.</Description>
+      <CategoryExternalId>spider_in_stream</CategoryExternalId>
+      <BrandExternalId>del_ventos_doodles</BrandExternalId>
+      <ProductPageUrl>https://www.shopify.com/balance/rewards</ProductPageUrl>
+      <ImageUrl>https://cdn.shopify.com/s/files/1/0422/7341/products/boom-shakalaka-reprint-bw_a1d3717b-341c-42f6-8967-544d6ab91ef6.png?&amp;_accept=image/avif</ImageUrl>
+      <Color>Black and White</Color>
+      <Size>4x6</Size>
+      <Attributes>
+        <Attribute id="BV_FE_FAMILY">
+          <Value>284002989</Value>
+        </Attribute>
+        <Attribute id="BV_FE_EXPAND">
+          <Value>BV_FE_FAMILY:284002989</Value>
+        </Attribute>
+        <Attribute id="BV_FE_FAMILY">
+          <Value>signed_reprint</Value>
+        </Attribute>
+        <Attribute id="BV_FE_EXPAND">
+          <Value>BV_FE_FAMILY:signed_reprint</Value>
+        </Attribute>
+      </Attributes>
+    </Product>
+    <Product>
+      <ExternalId>670270057</ExternalId>
+      <Name>Signed Reprint - 4x6 - Full Color</Name>
+      <Description>Hang this signed 4 x 6 reprint piece of art on your wall of choice. The Boom Shakalaka spider will delight your friends and satisfy your need for amazing hand drawn reprinted ART. Sharpie on Paper.</Description>
+      <CategoryExternalId>spider_in_stream</CategoryExternalId>
+      <BrandExternalId>del_ventos_doodles</BrandExternalId>
+      <ProductPageUrl>https://www.shopify.com/balance/features</ProductPageUrl>
+      <ImageUrl>https://cdn.shopify.com/s/files/1/0422/7341/products/boom-shakalaka-reprint-color_8e754d6d-5903-44b3-81ce-dd85950df1e4.png?&amp;_accept=image/avif</ImageUrl>
+      <Color>Full Color</Color>
+      <Size>4x6</Size>
+      <Attributes>
+        <Attribute id="BV_FE_FAMILY">
+          <Value>284002989</Value>
+        </Attribute>
+        <Attribute id="BV_FE_EXPAND">
+          <Value>BV_FE_FAMILY:284002989</Value>
+        </Attribute>
+        <Attribute id="BV_FE_FAMILY">
+          <Value>signed_reprint</Value>
+        </Attribute>
+        <Attribute id="BV_FE_EXPAND">
+          <Value>BV_FE_FAMILY:signed_reprint</Value>
+        </Attribute>
+      </Attributes>
+    </Product>
+  </Products>
+</Feed>
