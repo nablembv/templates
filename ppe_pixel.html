@@ -11,9 +11,9 @@
   <pre id="order_summary"></pre>
 
   <script>
-    // --------------- COMMAND TO USE ----------------
-    // - http-server -a localhost -o /ppe_pixel.html -
-    // -----------------------------------------------
+    // ----------------------- COMMAND TO USE ----------------------
+    // - http-server -a localhost -o /ppe_pixel.html -p 80 -c-1 -s -
+    // -------------------------------------------------------------
 
     let payload = {
       orderId: Math.random().toString(36).slice(-8),
@@ -21,10 +21,10 @@
       currency: "USD",
       items: [
         {
-        "name": "Printed T - XX-Large",
+        "name": "Printed T - X-Large",
         "price": "100.00",
         "quantity": "1",
-        "productId": "670466677",
+        "productId": "670466673",
         }
       ],
       email: "nabil.lemenuel@bazaarvoice.com",

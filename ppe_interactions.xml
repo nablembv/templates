@@ -2,7 +2,7 @@
 <Feed xmlns="http://www.bazaarvoice.com/xs/PRR/PostPurchaseFeed/14.7">
 	<Interaction>
 		<EmailAddress>nabil.lemenuel@bazaarvoice.com</EmailAddress>
-		<TransactionDate>2022-10-10T00:00:00.000000</TransactionDate>
+		<TransactionDate>2022-10-24T00:00:00.000000</TransactionDate>
 		<Locale>en_GB</Locale>
 		<Products>
 			<Product>
@@ -10,18 +10,18 @@
 				<Name>Nabil Lemenuel</Name>
 			</Product>
 		</Products>
-		<DeploymentZone>stephanieetnabil</DeploymentZone>
+		<DeploymentZone>main_site</DeploymentZone>
 	</Interaction>
 	<Interaction>
-		<EmailAddress>stephanie.garcia@bazaarvoice.com</EmailAddress>
-		<TransactionDate>2022-10-10T01:00:00.000000</TransactionDate>
+		<EmailAddress>nabil.lemenuel@bazaarvoice.com</EmailAddress>
+		<TransactionDate>2022-10-25T00:00:00.000000</TransactionDate>
 		<Locale>en_GB</Locale>
 		<Products>
 			<Product>
 				<ExternalId>670466673</ExternalId>
-				<Name>Stephanie Garcia</Name>
+				<Name>Nabil Lemenuel</Name>
 			</Product>
 		</Products>
-		<DeploymentZone>stephanieetnabil</DeploymentZone>
+		<DeploymentZone>main_site</DeploymentZone>
 	</Interaction>
 </Feed>
